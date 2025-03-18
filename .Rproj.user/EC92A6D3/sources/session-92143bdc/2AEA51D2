@@ -1,0 +1,24 @@
+{
+    "id": "2AEA51D2",
+    "path": "/cloud/project/Advanced Tasks/Visualize Time-Series Data using xts and zoo.R",
+    "project_path": "Advanced Tasks/Visualize Time-Series Data using xts and zoo.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1742321314609.0,
+    "source_on_save": false,
+    "relative_order": 17,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1742309490,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1742309490,
+    "read_only": false,
+    "read_only_alternatives": []
+}
